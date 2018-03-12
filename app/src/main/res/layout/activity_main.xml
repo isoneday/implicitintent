@@ -1,0 +1,90 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.training.lanjutanimplicit.MainActivity">
+
+        <Button
+            android:id="@+id/btnaudiomanager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="audio manager" />
+
+        <Button
+            android:id="@+id/btnaudiorecorder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="audio recorder" />
+
+        <Button
+            android:id="@+id/btnbluetooth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="bluetooth" />
+
+        <Button
+            android:id="@+id/btnbrowser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="browser"
+            android:background="@drawable/background"/>
+
+        <Button
+            android:id="@+id/btncamera"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="camera" />
+
+        <Button
+            android:id="@+id/btnemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="email" />
+
+        <Button
+            android:id="@+id/btnphone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="phone" />
+
+        <Button
+            android:id="@+id/btnsms"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SMS" />
+
+        <Button
+            android:id="@+id/btntts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="ontts"
+            android:text="TTS" />
+
+        <Button
+            android:id="@+id/btnwifi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="wifi" />
+
+        <Button
+            android:id="@+id/btnvideo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="video" />
+
+        <Button
+            android:onClick="onAlarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="alarm" />
+
+
+    </LinearLayout>
+
+</ScrollView>

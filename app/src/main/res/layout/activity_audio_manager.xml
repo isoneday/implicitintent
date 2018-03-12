@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/ring"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ring" />
+
+    <Button
+        android:id="@+id/vibrate"
+        android:onClick="onVibra"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vibrate" />
+
+    <Button
+        android:id="@+id/silent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/silent" />
+</LinearLayout>

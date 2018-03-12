@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="ring">ring</string>
+    <string name="vibrate">vibrate</string>
+    <string name="silent">silent</string>
+    <string name="play">play</string>
+    <string name="alamatweb">http://www.ingenico.com</string>
+    <string name="btnIntend">Take (big) Picture</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+    <string name="linkurl">http://www.imastudio.co.id</string>
+</resources>
