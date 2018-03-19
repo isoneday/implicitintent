@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.iswandi.implicitintent.activity.AlarmActivity;
 import com.iswandi.implicitintent.activity.AudioManagerActivity;
 import com.iswandi.implicitintent.activity.BluetoothActivity;
 import com.iswandi.implicitintent.activity.BrowserActivity;
@@ -95,5 +96,10 @@ public class MainActivity extends MyFunction {
                 pindahclass(VideoActivity.class);
                 break;
         }
+    }
+
+    public void onAlarm(View view) {
+        pindahclass(AlarmActivity.class);
+
     }
 }
