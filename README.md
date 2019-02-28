@@ -4,4 +4,4 @@
 ![screen shot 2018-03-19 at 9 54 53 pm](https://user-images.githubusercontent.com/16025686/37603088-5b84dc2c-2bc0-11e8-9ce6-64b11d308a1d.png)
 ![screen shot 2018-03-19 at 9 54 31 pm](https://user-images.githubusercontent.com/16025686/37603102-664aeb9c-2bc0-11e8-9a87-c42cd458e5ac.png)
 ![screen shot 2018-03-19 at 9 53 35 pm](https://user-images.githubusercontent.com/16025686/37603114-71ff2a0c-2bc0-11e8-9db4-c47fd144c9f6.png)
-![screen shot 2019-02-08 at 11 37 17 am](https://user-images.githubusercontent.com/16025686/53550697-f5071e00-3b69-11e9-8bb0-eda079dd19b1.png)
+
